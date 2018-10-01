@@ -73,3 +73,4 @@ C:\Users\mabotero\source\repos\quicknote\quicknote\obj\Debug\quicknote.dll
 C:\Users\mabotero\source\repos\quicknote\quicknote\obj\Debug\quicknote.pdb
 C:\Users\mabotero\source\repos\quicknote\quicknote\obj\Debug\quicknote.Migrations.FirstProtection.resources
 C:\Users\mabotero\source\repos\quicknote\quicknote\obj\Debug\quicknote.csproj.GenerateResource.cache
+C:\Users\mabotero\source\repos\quicknote\quicknote\obj\Debug\quicknote.Migrations.DateCreation.resources

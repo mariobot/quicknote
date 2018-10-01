@@ -13,5 +13,8 @@ namespace quicknote.Models
 
         [Required]        
         public string Content { get; set; }
+
+        [Required]
+        public DateTime DateCreation { get; set; }
     }
 }

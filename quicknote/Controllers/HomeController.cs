@@ -20,6 +20,7 @@ namespace quicknote.Controllers
         public ActionResult Create(Note myNote)
         {
             myNote.Id = Guid.NewGuid();
+            myNote.DateCreation = DateTime.Now;
             db.Notes.Add(myNote);
             db.SaveChanges();
 

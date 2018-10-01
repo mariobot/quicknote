@@ -116,6 +116,10 @@
     <Compile Include="Migrations\201809281539258_FirstProtection.Designer.cs">
       <DependentUpon>201809281539258_FirstProtection.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201810012025321_DateCreation.cs" />
+    <Compile Include="Migrations\201810012025321_DateCreation.Designer.cs">
+      <DependentUpon>201810012025321_DateCreation.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Note.cs" />
     <Compile Include="Models\quicknoteDatabase.cs" />
@@ -143,6 +147,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201809281539258_FirstProtection.resx">
       <DependentUpon>201809281539258_FirstProtection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201810012025321_DateCreation.resx">
+      <DependentUpon>201810012025321_DateCreation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
